@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/relative_layout_container"
+    android:layout_margin="4dp"
+    android:paddingBottom="4dp"
+    android:background="#485460">
+
+    <ImageView
+        android:id="@+id/item_movie_poster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:layout_height="wrap_content"
+        android:paddingVertical="8dp"
+        android:layout_marginHorizontal="8dp"
+        android:layout_below="@id/item_movie_poster"
+        android:id="@+id/item_movie_title"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:text="movie title"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textColor="#dcdde1"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="16dp"
+
+        android:paddingBottom="16dp"
+        android:layout_below="@id/item_movie_title"
+        android:id="@+id/item_movie_overview"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="overview"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/bundle_review"
+        android:padding="4dp"
+        android:layout_below="@id/item_movie_overview"
+        android:layout_marginLeft="8dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/item_movie_rating_star"
+            android:src="@drawable/ic_star_black_24dp"
+            android:tint="#FFC107"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/item_movie_rating"
+            android:textSize="15sp"
+            android:textColor="#fff"
+            android:layout_toRightOf="@id/item_movie_rating_star"
+            android:text="9.0"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_movie_release_layout"
+        android:gravity="right"
+        android:layout_below="@id/item_movie_overview"
+        android:layout_marginRight="8dp">
+        <TextView
+            android:id="@+id/item_movie_release"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:layout_gravity="right"
+            android:padding="4dp"
+            android:text="2019-09-10"
+            android:textColor="#fff"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</RelativeLayout>

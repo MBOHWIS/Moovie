@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password"> <item quantity="one">Le mot de passe n\'est pas assez sécurisé. Utilisez au moins %1$d caractère et une combinaison de chiffres et de lettres.</item> <item quantity="other">Le mot de passe n\'est pas assez sécurisé. Utilisez au moins %1$d caractères et une combinaison de chiffres et de lettres.</item> </plurals>
+    <string name="fui_accessibility_logo">Logo de l\'application</string>
+    <string name="fui_auto_verified">Numéro de téléphone validé automatiquement</string>
+    <string name="fui_button_text_save">Enregistrer</string>
+    <string name="fui_button_text_send">Envoyer</string>
+    <string name="fui_cancel">Annuler</string>
+    <string name="fui_confirm_recovery_body">Suivez les instructions envoyées à l\'adresse %1$s pour récupérer votre mot de passe.</string>
+    <string name="fui_continue">Continuer</string>
+    <string name="fui_email_account_creation_error">Échec de la création du compte avec une adresse e-mail</string>
+    <string name="fui_email_hint">E-mail</string>
+    <string name="fui_email_link_confirm_email_header">Confirmez votre adresse e-mail</string>
+    <string name="fui_email_link_confirm_email_message">Confirmez votre adresse e-mail pour vous connecter</string>
+    <string name="fui_email_link_cross_device_linking_text">Vous aviez décidé d\'associer votre compte %1$s à votre adresse e-mail, mais vous avez ouvert le lien sur un appareil différent de celui avec lequel vous vous êtes connecté.\n\nSi vous souhaitez toujours associer votre compte %1$s, ouvrez le lien sur l\'appareil avec lequel vous avez commencé à vous connecter. Sinon, appuyez sur \"Continuer\" pour vous connecter depuis un autre appareil.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Se connecter avec %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">Session terminée</string>
+    <string name="fui_email_link_different_anonymous_user_message">La session associée à cette demande de connexion a expiré ou a été effacée.</string>
+    <string name="fui_email_link_dismiss_button">Ignorer</string>
+    <string name="fui_email_link_email_sent">Un e-mail de connexion avec des instructions supplémentaires a été envoyé à %1$s. Consultez cet e-mail pour vous connecter.</string>
+    <string name="fui_email_link_header">E-mail de connexion envoyé\n</string>
+    <string name="fui_email_link_invalid_link_header">Impossible de se connecter</string>
+    <string name="fui_email_link_invalid_link_message">Le code d\'action n\'est pas valide. Ce problème peut survenir si le code est incorrect, s\'il est arrivé à expiration ou s\'il a déjà été utilisé.</string>
+    <string name="fui_email_link_resend">Renvoyer</string>
+    <string name="fui_email_link_trouble_getting_email_header">Vous n\'avez pas reçu l\'e-mail ?</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">Si les étapes décrites plus haut n\'ont pas résolu le problème, vous pouvez renvoyer l\'e-mail. Sachez que le lien du premier e-mail sera alors désactivé.</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">Essayez les solutions courantes suivantes :\n\u2022 Vérifiez que l\'e-mail n\'a ni été marqué comme spam ni été filtré.\n\u2022 Vérifiez votre connexion Internet.\n\u2022 Vérifiez que votre adresse e-mail est correcte.\n\u2022 Vérifiez que votre boîte de réception n\'est pas pleine et que les paramètres sont correctement définis.\n</string>
+    <string name="fui_email_link_wrong_device_header">Nouveau navigateur ou nouvel appareil détecté</string>
+    <string name="fui_email_link_wrong_device_message">Essayez d\'ouvrir le lien en utilisant le même appareil ou navigateur que celui sur lequel vous avez commencé le processus de connexion.</string>
+    <string name="fui_enter_confirmation_code">Saisissez le code à six chiffres envoyé au</string>
+    <string name="fui_error_email_does_not_exist">Cette adresse e-mail ne correspond à aucun compte existant</string>
+    <string name="fui_error_invalid_password">Mot de passe incorrect.</string>
+    <string name="fui_error_quota_exceeded">Un problème est survenu lors de la validation de votre numéro de téléphone</string>
+    <string name="fui_error_session_expired">Ce code n\'est plus valide</string>
+    <string name="fui_error_too_many_attempts">Ce numéro de téléphone a été utilisé un trop grand nombre de fois</string>
+    <string name="fui_error_unknown">Une erreur inconnue s\'est produite.</string>
+    <string name="fui_idp_name_email">Adresse e-mail</string>
+    <string name="fui_idp_name_facebook">Facebook</string>
+    <string name="fui_idp_name_github">GitHub</string>
+    <string name="fui_idp_name_google">Google</string>
+    <string name="fui_i

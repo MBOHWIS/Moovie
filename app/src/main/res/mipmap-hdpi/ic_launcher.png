@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password"> <item quantity="one">Ο κωδικός πρόσβασης δεν είναι αρκετά ισχυρός. Χρησιμοποιήστε τουλάχιστον %1$d χαρακτήρα και έναν συνδυασμό γραμμάτων και αριθμών</item> <item quantity="other">Ο κωδικός πρόσβασης δεν είναι αρκετά ισχυρός. Χρησιμοποιήστε τουλάχιστον %1$d χαρακτήρες και έναν συνδυασμό γραμμάτων και αριθμών</item> </plurals>
+    <string name="fui_accessibility_logo">Λογότυπο εφαρμογής</string>
+    <string name="fui_auto_verified">Ο αριθμός τηλεφώνου επαληθεύτηκε αυτόματα</string>
+    <string name="fui_button_text_save">Αποθήκευση</string>
+    <string name="fui_button_text_send">Αποστολή</string>
+    <string name="fui_cancel">Ακύρωση</string>
+    <string name="fui_confirm_recovery_body">Ακολουθήστε τις οδηγίες που στάλθηκαν στο %1$s για να ανακτήσετε τον κωδικό πρόσβασής σας.</string>
+    <string name="fui_continue">Συνέχεια</string>
+    <string name="fui_email_account_creation_error">Η εγγραφή του λογαριασμού ηλεκτρονικού ταχυδρομείου δεν ήταν επιτυχής</string>
+    <string name="fui_email_hint">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="fui_email_link_confirm_email_header">Επιβεβαίωση διεύθυνσης ηλεκτρονικού ταχυδρομείου</string>
+    <string name="fui_email_link_confirm_email_message">Επιβεβαιώστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου για να συνεχίσετε τη σύνδεση</string>
+    <string name="fui_email_link_cross_device_linking_text">Αρχικά, σκοπεύατε να συνδέσετε το %1$s με τον λογαριασμό ηλεκτρονικού ταχυδρομείου, αλλά, για το άνοιγμα του συνδέσμου, χρησιμοποιήσατε άλλη συσκευή στην οποία δεν είστε συνδεδεμένοι.\n\nΑν θέλετε να συνεχίσετε τη σύνδεση του λογαριασμού %1$s, ανοίξτε τον σύνδεσμο στην ίδια συσκευή από την οποία ξεκινήσατε τη σύνδεση. Διαφορετικά, πατήστε Συνέχεια για να συνδεθείτε σε αυτήν τη συσκευή.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Συνδεθείτε μέσω %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">Η περίοδος σύνδεσης έλη

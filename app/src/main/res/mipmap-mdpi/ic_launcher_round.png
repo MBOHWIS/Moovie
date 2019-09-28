@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password"> <item quantity="one">Das Passwort ist zu schwach. Verwenden Sie mindestens %1$d Zeichen und eine Mischung aus Buchstaben und Ziffern.</item> <item quantity="other">Das Passwort ist zu schwach. Verwenden Sie mindestens %1$d Zeichen und eine Mischung aus Buchstaben und Ziffern.</item> </plurals>
+    <string name="fui_accessibility_logo">App-Logo</string>
+    <string name="fui_auto_verified">Telefonnummer wurde automatisch bestätigt</string>
+    <string name="fui_button_text_save">Speichern</string>
+    <string name="fui_button_text_send">Senden</string>
+    <string name="fui_cancel">Abbrechen</string>
+    <string name="fui_confirm_recovery_body">Folgen Sie der an %1$s gesendeten Anleitung, um Ihr Passwort zurückzusetzen.</string>
+    <string name="fui_continue">Weiter</string>
+    <string name="fui_email_account_creation_error">Registrierung des E-Mail-Kontos fehlgeschlagen</string>
+    <string name="fui_email_hint">E-Mail-Adresse</string>
+    <string name="fui_email_link_confirm_email_header">E-Mail-Adresse bestätigen</string>
+    <string name="fui_email_link_confirm_email_message">E-Mail-Adresse bestätigen, um Anmeldung fortzusetzen</string>
+    <string name="fui_email_link_cross_device_linking_text">Sie haben versucht, %1$s auf einem Gerät, auf dem Sie nicht angemeldet sind, mit Ihrem E-Mail-Konto zu verbinden.\n\nWenn Sie Ihr %1$s-Konto weiterhin verbinden möchten, öffnen Sie den Link bitte auf dem Gerät, auf dem Sie den Anmeldevorgang gestartet haben. Andernfalls tippen Sie auf \"Weiter\", um sich auf diesem Gerät anzumelden.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Mit %1$s anmelden</string>
+    <string name="fui_email_link_different_anonymous_user_header">Sitzung beendet</string>
+    <string name="fui_email_link_different_anonymous_user_message">Die mit dieser Anmeldeanfrage verknüpfte Sitzung ist entweder abgelaufen oder wurde gelöscht.</string>
+    <string name="fui_email_link_dismiss_button">Ablehnen</string>
+    <string name="fui_email_link_email_sent">Wir haben eine Anmelde-E-Mail mit zusätzlichen Informationen an %1$s gesendet. Bitte öffnen Sie die E-Mail, um die Anmeldung abzuschließen.</string>
+    <string name="fui_email_link_header">Anmelde-E-Mail gesendet\n</string>
+    <string name="fui_email_link_invalid_link_header">Anmelden nicht möglich</string>
+    <string name="fui_email_link_invalid_link_message">Der Aktionscode ist ungültig. Möglicherweise ist der Code fehlerhaft oder abgelaufen oder er wurde bereits verwendet.</string>
+    <string name="fui_email_link_resend">Erneut senden</string>
+    <string name="fui_email_link_trouble_getting_email_header">Probleme beim Emp

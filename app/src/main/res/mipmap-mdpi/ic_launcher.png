@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password"> <item quantity="one">Adgangskoden er ikke stærk nok. Brug mindst %1$d tegn og en blanding af bogstaver og tal</item> <item quantity="other">Adgangskoden er ikke stærk nok. Brug mindst %1$d tegn og en blanding af bogstaver og tal</item> </plurals>
+    <string name="fui_accessibility_logo">App-logo</string>
+    <string name="fui_auto_verified">Telefonnummeret blev bekræftet automatisk</string>
+    <string name="fui_button_text_save">Gem</string>
+    <string name="fui_button_text_send">Send</string>
+    <string name="fui_cancel">Annuller</string>
+    <string name="fui_confirm_recovery_body">Følg vejledningen, der blev sendt til %1$s, for at gendanne din adgangskode.</string>
+    <string name="fui_continue">Fortsæt</string>
+    <string name="fui_email_account_creation_error">Registrering af mailkonto mislykkedes</string>
+    <string name="fui_email_hint">Mail</string>
+    <string name="fui_email_link_confirm_email_header">Bekræft mailadresse</string>
+    <string name="fui_email_link_confirm_email_message">Bekræft mailadresse for at fortsætte loginprocessen</string>
+    <string name="fui_email_link_cross_device_linking_text">Du ville egentlig knytte %1$s til din mailkonto, men du har åbnet linket på en anden enhed, som du ikke er logget ind på.\n\nHvis du stadig vil tilknytte din %1$s-konto, skal du åbne linket på den enhed, hvor du startede loginprocessen. Ellers kan du klikke på Fortsæt for at fortsætte med at logge ind på denne enhed.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Log ind med %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">Sessionen er afsluttet</string>
+    <string name="fui_email_link_different_anonymous_user_message">Den session, som er tilknyttet denne anmodning om login, er enten udløbet eller ryddet.</string>
+    <string name="fui_email_link_dismiss_button">Afvis</string>
+    <string name="fui_email_link_email_sent">En loginmail med
